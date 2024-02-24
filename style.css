@@ -1,0 +1,10 @@
+.footer{
+    background-image: url(./img/Rectangle\ 6.png);
+    width: 1400px;
+    height: 128px;
+    top: 1481px;
+}
+.footer .footer-links a{
+    color: white;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,39 @@
+@import url(./fonts/fonts.css);
+*{
+  font-family: 'Montserrat';
+  font-weight: 500;
+}
+@import url(./fonts/fonts.css);
+*{
+  font-family: 'ProstoOne';
+  font-weight: 400;
+}
+
+.navbar-background{
+  background-image: url(./img/Header.png);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+.title{
+  color: white;
+}
+ .button{
+  border: 1px solid #E2AB3F;
+  background: #FFF;
+  padding: 10px 53px; 
+  border-radius: 10px;
+}
+ .col-3 .button{
+  border: 1px solid black;
+  background:white ;
+  padding: 10px 53px;
+  border-radius: 10px;
+ }
+ .footer{
+  background-image: url(./img/Rectangle\ 13\ \(1\).png);
+ }
+.haeder{
+  background-color: black;
+  color: #FFF;
+}
